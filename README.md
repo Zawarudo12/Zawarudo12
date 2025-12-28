@@ -1,11 +1,6 @@
-<h2 align="center">Hi 👽! My name is Sreeram</h2>
-
-
+<h2 align="center">Hi 👽! My name is Sreeram Raman</h2>
 
 ###
-
-
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -43,6 +38,10 @@
 
 ###
 
+<img align="right" height="150" src="https://media1.tenor.com/m/g-kC_paUorMAAAAC/dante-dance.gif"  />
+
+###
+
 <div align="left">
   <a href="discordapp.com/users/562874373023858713" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -57,11 +56,9 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/g-kC_paUorMAAAAC/dante-dance.gif"  />
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Zawarudo12.Zawarudo12&left_color=chocolate&right_color=darkorchid"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Zawarudo12.Zawarudo12&"  />
+</div>
 
 ###
 
