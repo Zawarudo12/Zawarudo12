@@ -77,11 +77,3 @@
 <h3 align="left">🌱 I’m currently learning Electronics and Communication Engineering<br><br>💬 Ask me about Applied physics in electronic systems, embedded design, and signal processing.<br><br>⚡ Fun fact Terraria is one of the greatest games of all time</h3>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zawarudo12/Zawarudo12/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zawarudo12/Zawarudo12/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zawarudo12/Zawarudo12/output/pacman-contribution-graph.svg">
-</picture>
-
-###
