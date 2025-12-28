@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👽! My name is Sreeram</h1>
 
 ###
-<br>
-<br>
 
-<img align="right" height="300" src="https://imgs.search.brave.com/_kXDYxgIzH0Tk57EGPZnN5NJPmIpRM57-eu-1jYiFJo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhibWxvYVhkc2R6/Um9aR1oyYm5KNGNU/bGtkMmx1WkhWeWRq/ZDNhV3R4T1RrME9H/aHBNWFEwTWlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vbHNCdEhkRkZo/d0dUTjVQRDNLLzIw/MC5naWY.gif"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<img align="right" height="190" src="https://imgs.search.brave.com/_kXDYxgIzH0Tk57EGPZnN5NJPmIpRM57-eu-1jYiFJo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhibWxvYVhkc2R6/Um9aR1oyYm5KNGNU/bGtkMmx1WkhWeWRq/ZDNhV3R4T1RrME9H/aHBNWFEwTWlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vbHNCdEhkRkZo/d0dUTjVQRDNLLzIw/MC5naWY.gif"  />
 
 ###
 
