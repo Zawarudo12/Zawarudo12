@@ -74,7 +74,7 @@
 
 ###
 
-<h4 align="left">🌱 I’m currently learning Electronics and Communication Engineering<br><br>💬 Ask me about Applied physics in electronic systems, embedded design, and signal processing.<br><br>⚡ Fun fact Terraria is one of the greatest games of all time</h4>
+<h3 align="left">🌱 I’m currently learning Electronics and Communication Engineering<br><br>💬 Ask me about Applied physics in electronic systems, embedded design, and signal processing.<br><br>⚡ Fun fact Terraria is one of the greatest games of all time</h3>
 
 ###
 
