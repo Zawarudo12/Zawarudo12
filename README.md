@@ -3,7 +3,6 @@
 ###
 <br>
 <br>
-<br>
 
 <img align="right" height="198" src="https://media1.tenor.com/m/g-kC_paUorMAAAAC/dante-dance.gif"  />
 
