@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👽! My name is Sreeram</h1>
 
 ###
-<br>
 
 <h3 align="left">I am an undergraduate in Electronics and Communication Engineering with a strong interest in applied physics, embedded systems, and robotics. My academic focus includes signal processing, hardware–software interaction, and the physical behavior of electronic devices in real-world systems, with an emphasis on understanding how theory translates into functioning hardware.</h3>
 
 ###
 
-<img align="right" height="210" src="https://imgs.search.brave.com/_kXDYxgIzH0Tk57EGPZnN5NJPmIpRM57-eu-1jYiFJo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhibWxvYVhkc2R6/Um9aR1oyYm5KNGNU/bGtkMmx1WkhWeWRq/ZDNhV3R4T1RrME9H/aHBNWFEwTWlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vbHNCdEhkRkZo/d0dUTjVQRDNLLzIw/MC5naWY.gif"  />
+<img align="right" height="280" src="https://imgs.search.brave.com/_kXDYxgIzH0Tk57EGPZnN5NJPmIpRM57-eu-1jYiFJo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhibWxvYVhkc2R6/Um9aR1oyYm5KNGNU/bGtkMmx1WkhWeWRq/ZDNhV3R4T1RrME9H/aHBNWFEwTWlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vbHNCdEhkRkZo/d0dUTjVQRDNLLzIw/MC5naWY.gif"  />
 
 ###
 
