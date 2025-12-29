@@ -2,9 +2,38 @@
 
 ###
 <br>
-<br>
+
+<h3 align="left">I am an undergraduate in Electronics and Communication Engineering with a strong interest in applied physics, embedded systems, and robotics. My academic focus includes signal processing, hardware–software interaction, and the physical behavior of electronic devices in real-world systems, with an emphasis on understanding how theory translates into functioning hardware.</h3>
+
+###
 
 <img align="right" height="210" src="https://imgs.search.brave.com/_kXDYxgIzH0Tk57EGPZnN5NJPmIpRM57-eu-1jYiFJo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhibWxvYVhkc2R6/Um9aR1oyYm5KNGNU/bGtkMmx1WkhWeWRq/ZDNhV3R4T1RrME9H/aHBNWFEwTWlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vbHNCdEhkRkZo/d0dUTjVQRDNLLzIw/MC5naWY.gif"  />
+
+###
+
+<div align="left">
+  <a href="https://discordapp.com/users/562874373023858713" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:sreeramraman44@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sreeram-raman-841a99291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Zawarudo12.Zawarudo12&"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Zawarudo12/Zawarudo12/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -41,32 +70,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="35" alt="pycharm logo"  />
 </div>
-
-###
-
-<div align="left">
-  <a href="https://discordapp.com/users/562874373023858713" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:sreeramraman44@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sreeram-raman-841a99291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Zawarudo12.Zawarudo12&"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Zawarudo12/Zawarudo12/output/snake.svg" alt="Snake animation" />
 
 ###
 
